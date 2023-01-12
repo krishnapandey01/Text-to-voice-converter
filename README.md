@@ -22,11 +22,7 @@ Swap out the location of your service account json key file.
 The above command allows us to bypass having to download the gcloud SDK utility by directly passing our service account credentials.
 
 
-## YouTube Step by Step Tutorial
 
-https://www.youtube.com/watch?v=uxjPTalCCT0
-
- [![](http://img.youtube.com/vi/uxjPTalCCT0/0.jpg)](https://www.youtube.com/watch?v=uxjPTalCCT0)
 
 
 
